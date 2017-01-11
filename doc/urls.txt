@@ -1,0 +1,5 @@
+git://git.openembedded.org/meta-openembedded
+https://github.com/meta-qt5/meta-qt5.git
+git@github.com:likewise/meta-sunxi.git
+git://git.openembedded.org/openembedded-core
+git@github.com:kergoth/bb.git
